@@ -6,7 +6,7 @@ Este repositório contém **exercícios de Java** desenvolvidos para praticar e 
 
 1. Clone o repositório:
     ```bash
-    
+    https://github.com/SenhorPequi/dio-trilha-JAVA-base.git
     ```
 
 2. Abra e execute o arquivo `Main.java` ou o exercício desejado.
